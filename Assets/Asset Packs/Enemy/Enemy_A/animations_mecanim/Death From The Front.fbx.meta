@@ -1,326 +1,17 @@
 fileFormatVersion: 2
-guid: 7184c11791413af4da8292a009e57d47
+guid: a0d2bdfa158df8f468336efdbc6a8810
 ModelImporter:
   serializedVersion: 26
   internalIDToNameTable:
   - first:
-      1: 100000
-    second: Arm_02_L
-  - first:
-      1: 100002
-    second: Arm_02_R
-  - first:
-      1: 100004
-    second: Belt_02
-  - first:
-      1: 100006
-    second: Head
-  - first:
-      1: 100008
-    second: Helmet_02
-  - first:
-      1: 100010
-    second: //RootNode
-  - first:
-      1: 100012
-    second: Jets_02
-  - first:
-      1: 100014
-    second: LCalf
-  - first:
-      1: 100016
-    second: LCollarbone
-  - first:
-      1: 100018
-    second: Leg_02_L
-  - first:
-      1: 100020
-    second: Leg_02_R
-  - first:
-      1: 100022
-    second: LFoot
-  - first:
-      1: 100024
-    second: LForearm
-  - first:
-      1: 100026
-    second: LPalm
-  - first:
-      1: 100028
-    second: LThigh
-  - first:
-      1: 100030
-    second: LUpperarm
-  - first:
-      1: 100032
-    second: Neck
-  - first:
-      1: 100034
-    second: PalmBone001
-  - first:
-      1: 100036
-    second: PalmBone001 1
-  - first:
-      1: 100038
-    second: PalmBone002
-  - first:
-      1: 100040
-    second: PalmBone002 1
-  - first:
-      1: 100042
-    second: Pelvis
-  - first:
-      1: 100044
-    second: Plane.013
-  - first:
-      1: 100046
-    second: RArmCollarbone
-  - first:
-      1: 100048
-    second: RArmForearm
-  - first:
-      1: 100050
-    second: RArmPalm
-  - first:
-      1: 100052
-    second: RArmUpperarm
-  - first:
-      1: 100054
-    second: RCalf
-  - first:
-      1: 100056
-    second: RFoot
-  - first:
-      1: 100058
-    second: Ribcage
-  - first:
-      1: 100060
-    second: RThigh
-  - first:
-      1: 100062
-    second: SpaceMan_Base
-  - first:
-      1: 100064
-    second: SpaceMan_Clothe
-  - first:
-      1: 100066
-    second: Spine1
-  - first:
-      1: 100068
-    second: Spine2
-  - first:
-      1: 100070
-    second: Suit_02
-  - first:
-      4: 400000
-    second: Arm_02_L
-  - first:
-      4: 400002
-    second: Arm_02_R
-  - first:
-      4: 400004
-    second: Belt_02
-  - first:
-      4: 400006
-    second: Head
-  - first:
-      4: 400008
-    second: Helmet_02
-  - first:
-      4: 400010
-    second: //RootNode
-  - first:
-      4: 400012
-    second: Jets_02
-  - first:
-      4: 400014
-    second: LCalf
-  - first:
-      4: 400016
-    second: LCollarbone
-  - first:
-      4: 400018
-    second: Leg_02_L
-  - first:
-      4: 400020
-    second: Leg_02_R
-  - first:
-      4: 400022
-    second: LFoot
-  - first:
-      4: 400024
-    second: LForearm
-  - first:
-      4: 400026
-    second: LPalm
-  - first:
-      4: 400028
-    second: LThigh
-  - first:
-      4: 400030
-    second: LUpperarm
-  - first:
-      4: 400032
-    second: Neck
-  - first:
-      4: 400034
-    second: PalmBone001
-  - first:
-      4: 400036
-    second: PalmBone001 1
-  - first:
-      4: 400038
-    second: PalmBone002
-  - first:
-      4: 400040
-    second: PalmBone002 1
-  - first:
-      4: 400042
-    second: Pelvis
-  - first:
-      4: 400044
-    second: Plane.013
-  - first:
-      4: 400046
-    second: RArmCollarbone
-  - first:
-      4: 400048
-    second: RArmForearm
-  - first:
-      4: 400050
-    second: RArmPalm
-  - first:
-      4: 400052
-    second: RArmUpperarm
-  - first:
-      4: 400054
-    second: RCalf
-  - first:
-      4: 400056
-    second: RFoot
-  - first:
-      4: 400058
-    second: Ribcage
-  - first:
-      4: 400060
-    second: RThigh
-  - first:
-      4: 400062
-    second: SpaceMan_Base
-  - first:
-      4: 400064
-    second: SpaceMan_Clothe
-  - first:
-      4: 400066
-    second: Spine1
-  - first:
-      4: 400068
-    second: Spine2
-  - first:
-      4: 400070
-    second: Suit_02
-  - first:
-      23: 2300000
-    second: Arm_02_L
-  - first:
-      23: 2300002
-    second: Arm_02_R
-  - first:
-      23: 2300004
-    second: Helmet_02
-  - first:
-      23: 2300006
-    second: Jets_02
-  - first:
-      23: 2300008
-    second: Leg_02_L
-  - first:
-      23: 2300010
-    second: Leg_02_R
-  - first:
-      23: 2300012
-    second: Plane.013
-  - first:
-      23: 2300014
-    second: Suit_02
-  - first:
-      33: 3300000
-    second: Arm_02_L
-  - first:
-      33: 3300002
-    second: Arm_02_R
-  - first:
-      33: 3300004
-    second: Helmet_02
-  - first:
-      33: 3300006
-    second: Jets_02
-  - first:
-      33: 3300008
-    second: Leg_02_L
-  - first:
-      33: 3300010
-    second: Leg_02_R
-  - first:
-      33: 3300012
-    second: Plane.013
-  - first:
-      33: 3300014
-    second: Suit_02
-  - first:
-      43: 4300000
-    second: Belt_02
-  - first:
-      43: 4300002
-    second: Leg_02_L
-  - first:
-      43: 4300004
-    second: Leg_02_R
-  - first:
-      43: 4300006
-    second: Arm_02_L
-  - first:
-      43: 4300008
-    second: Helmet_02
-  - first:
-      43: 4300010
-    second: Arm_02_R
-  - first:
-      43: 4300012
-    second: Suit_02
-  - first:
-      43: 4300014
-    second: Jets_02
-  - first:
-      43: 4300016
-    second: SpaceMan_Clothe
-  - first:
-      43: 4300018
-    second: Plane.013
-  - first:
-      43: 4300020
-    second: SpaceMan_Base
-  - first:
-      74: 7400000
-    second: Idle
-  - first:
-      95: 9500000
-    second: //RootNode
-  - first:
-      137: 13700000
-    second: Belt_02
-  - first:
-      137: 13700002
-    second: SpaceMan_Base
-  - first:
-      137: 13700004
-    second: SpaceMan_Clothe
+      74: -203655887218126122
+    second: Death From The Front
   externalObjects: {}
   materials:
-    importMaterials: 0
+    importMaterials: 1
     materialName: 0
     materialSearch: 1
-    materialLocation: 0
+    materialLocation: 1
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
@@ -330,9 +21,9 @@ ModelImporter:
     rigImportErrors: 
     rigImportWarnings: "Copied Avatar Rig Configuration mis-match. Inbetween bone
       rotation in copied configuration does not match rotation in animation file:\n\t'Ribcage'
-      : rotation error = 5.559175 deg\n"
+      : rotation error = 15.918067 deg\n"
     animationImportErrors: 
-    animationImportWarnings: "\nClip 'Take 001' has import animation warnings that
+    animationImportWarnings: "\nClip 'mixamo.com' has import animation warnings that
       might lower retargeting quality:\nNote: Activate translation DOF on avatar to
       improve retargeting quality.\n\t'Ribcage' is inbetween humanoid transforms and
       has rotation animation that will be discarded.\n"
@@ -340,7 +31,7 @@ ModelImporter:
     animationDoRetargetingWarnings: 0
     importAnimatedCustomProperties: 0
     importConstraints: 0
-    animationCompression: 0
+    animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
     animationScaleError: 0.5
@@ -349,22 +40,22 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: Idle
-      takeName: Take 001
+      name: Death From The Front
+      takeName: mixamo.com
       internalID: 0
-      firstFrame: 1480
-      lastFrame: 1509
+      firstFrame: 0
+      lastFrame: 103
       wrapMode: 0
       orientationOffsetY: 0
-      level: 0
+      level: -0.25
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
-      loopTime: 1
+      loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
       keepOriginalOrientation: 0
       keepOriginalPositionY: 0
       keepOriginalPositionXZ: 0
@@ -373,85 +64,11 @@ ModelImporter:
       bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
       curves: []
       events: []
-      transformMask:
-      - path: 
-        weight: 1
-      - path: Belt_02
-        weight: 0
-      - path: Pelvis
-        weight: 1
-      - path: Pelvis/LThigh
-        weight: 1
-      - path: Pelvis/LThigh/LCalf
-        weight: 1
-      - path: Pelvis/LThigh/LCalf/Leg_02_L
-        weight: 0
-      - path: Pelvis/LThigh/LCalf/LFoot
-        weight: 1
-      - path: Pelvis/Plane.013
-        weight: 0
-      - path: Pelvis/RThigh
-        weight: 1
-      - path: Pelvis/RThigh/RCalf
-        weight: 1
-      - path: Pelvis/RThigh/RCalf/Leg_02_R
-        weight: 0
-      - path: Pelvis/RThigh/RCalf/RFoot
-        weight: 1
-      - path: Pelvis/Spine1
-        weight: 1
-      - path: Pelvis/Spine1/Spine2
-        weight: 1
-      - path: Pelvis/Spine1/Spine2/Ribcage
-        weight: 1
-      - path: Pelvis/Spine1/Spine2/Ribcage/LCollarbone
-        weight: 1
-      - path: Pelvis/Spine1/Spine2/Ribcage/LCollarbone/LUpperarm
-        weight: 1
-      - path: Pelvis/Spine1/Spine2/Ribcage/LCollarbone/LUpperarm/LForearm
-        weight: 1
-      - path: Pelvis/Spine1/Spine2/Ribcage/LCollarbone/LUpperarm/LForearm/Arm_02_L
-        weight: 0
-      - path: Pelvis/Spine1/Spine2/Ribcage/LCollarbone/LUpperarm/LForearm/LPalm
-        weight: 1
-      - path: Pelvis/Spine1/Spine2/Ribcage/LCollarbone/LUpperarm/LForearm/LPalm/PalmBone001
-        weight: 0
-      - path: Pelvis/Spine1/Spine2/Ribcage/LCollarbone/LUpperarm/LForearm/LPalm/PalmBone002
-        weight: 0
-      - path: Pelvis/Spine1/Spine2/Ribcage/Neck
-        weight: 1
-      - path: Pelvis/Spine1/Spine2/Ribcage/Neck/Head
-        weight: 1
-      - path: Pelvis/Spine1/Spine2/Ribcage/Neck/Head/Helmet_02
-        weight: 0
-      - path: Pelvis/Spine1/Spine2/Ribcage/RArmCollarbone
-        weight: 1
-      - path: Pelvis/Spine1/Spine2/Ribcage/RArmCollarbone/RArmUpperarm
-        weight: 1
-      - path: Pelvis/Spine1/Spine2/Ribcage/RArmCollarbone/RArmUpperarm/RArmForearm
-        weight: 1
-      - path: Pelvis/Spine1/Spine2/Ribcage/RArmCollarbone/RArmUpperarm/RArmForearm/Arm_02_R
-        weight: 0
-      - path: Pelvis/Spine1/Spine2/Ribcage/RArmCollarbone/RArmUpperarm/RArmForearm/RArmPalm
-        weight: 1
-      - path: Pelvis/Spine1/Spine2/Ribcage/RArmCollarbone/RArmUpperarm/RArmForearm/RArmPalm/PalmBone001
-          1
-        weight: 0
-      - path: Pelvis/Spine1/Spine2/Ribcage/RArmCollarbone/RArmUpperarm/RArmForearm/RArmPalm/PalmBone002
-          1
-        weight: 0
-      - path: Pelvis/Spine1/Spine2/SpaceMan_Clothe
-        weight: 0
-      - path: Pelvis/Spine1/Spine2/Suit_02
-        weight: 0
-      - path: Pelvis/Spine1/Spine2/Suit_02/Jets_02
-        weight: 0
-      - path: SpaceMan_Base
-        weight: 0
+      transformMask: []
       maskType: 3
       maskSource: {instanceID: 0}
       additiveReferencePoseFrame: 0
-    isReadable: 1
+    isReadable: 0
   meshes:
     lODScreenPercentages: []
     globalScale: 1
@@ -459,10 +76,10 @@ ModelImporter:
     addColliders: 0
     useSRGBMaterialColor: 1
     sortHierarchyByName: 1
-    importVisibility: 0
+    importVisibility: 1
     importBlendShapes: 1
-    importCameras: 0
-    importLights: 0
+    importCameras: 1
+    importLights: 1
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
@@ -473,7 +90,7 @@ ModelImporter:
     maxBonesPerVertex: 4
     minBoneWeight: 0.001
     meshOptimizationFlags: -1
-    indexFormat: 1
+    indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
@@ -483,8 +100,8 @@ ModelImporter:
     normalSmoothAngle: 60
     normalImportMode: 0
     tangentImportMode: 3
-    normalCalculationMode: 0
-    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
     blendShapeNormalImportMode: 1
     normalSmoothingSource: 0
   referencedClips: []
